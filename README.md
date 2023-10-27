@@ -25,8 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/omkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omkar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omkarpunjapwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkarpunjapwar" height="30" width="40" /></a>
+
+<a href="https://in.linkedin.com/in/omkar-punjapwar-bb7776284?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkarpunjapwar" height="30" width="40" /></a>
 <a href="https://instagram.com/_nameis_omkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nameis_omkar" height="30" width="40" /></a>
 </p>
 
