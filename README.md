@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hey there! I'm Omkar </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<br>
 <span align="right">
-    <img align="right" alt="GIF" width="400" src="https://cdn.dribbble.com/users/688785/screenshots/3060312/e_cute_ghost_no_motion.gif" />
+   <img align="right" width="400" src="https://cdn.acidcow.com/pics/20110201/animated_23.gif" />
 </span>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar&label=Profile%20views&color=0e75b6&style=flat" alt="omkar" /> </p>
@@ -45,8 +45,8 @@
 <br>
 
 
-<div align="right">
-<a href="https://www.fontspace.com/category/signs"><img width="200" src="https://see.fontimg.com/api/renderfont4/MaZx/eyJyIjoiZnMiLCJoIjo3NCwidyI6MTM5NiwiZnMiOjUzLCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/T21rYXIgcHVuamFwd2Fy/brittany-signature.png" alt="Signs fonts"></a>
+<div align="center">
+<a href="https://www.fontspace.com/category/signature"><img src="https://see.fontimg.com/api/renderfont4/9gq2/eyJyIjoiZnMiLCJoIjozMSwidyI6MTM5NiwiZnMiOjIyLCJmZ2MiOiIjRTBEQURBIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/T21rYXIgcHVuamFwd2Fy/reinata-demo.png" alt="Signature fonts"></a>
 </div>
   
 
