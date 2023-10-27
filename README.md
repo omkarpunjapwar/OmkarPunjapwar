@@ -1,7 +1,9 @@
 <h1 align="center">👋 Hey there! I'm Omkar </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-
+<span align="right">
+    <img align="right" alt="GIF" width="400" src="https://cdn.dribbble.com/users/688785/screenshots/3060312/e_cute_ghost_no_motion.gif" />
+</span>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar&label=Profile%20views&color=0e75b6&style=flat" alt="omkar" /> </p>
 
@@ -32,9 +34,19 @@
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> </a> </p>
 
 
+ <div align="center">
+    <img src="https://streak-stats.demolab.com?user=omkar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  </div>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkar&show_icons=true&locale=en" alt="omkar" /></p>
+##
+<br>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkar&" alt="omkar" /></p>
+
+<div align="right">
+<a href="https://www.fontspace.com/category/signs"><img width="200" src="https://see.fontimg.com/api/renderfont4/MaZx/eyJyIjoiZnMiLCJoIjo3NCwidyI6MTM5NiwiZnMiOjUzLCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/T21rYXIgcHVuamFwd2Fy/brittany-signature.png" alt="Signs fonts"></a>
+</div>
+  
+
