@@ -5,9 +5,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar&label=Profile%20views&color=0e75b6&style=flat" alt="omkar" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+🌟 About Me:
+- 🎓 Studying Computer Applications at SRTM University,NANDED.
+- 💻 Frontend developer with an intermediate level of expertise.
+- 🌆 Based in Maharastra, INDIA.
 
-- 💬 Ask me about---> **HTML CSS JS & PHP**
+🚀 What I Do:
+- 🌐 Creating captivating web experiences using HTML, CSS, and JavaScript.
+- 🎨 Designing user-friendly and responsive interfaces.
+- 🔧 Solving coding challenges one line at a time.
+
+💡 I'm passionate about technology, always eager to learn and grow in the ever-evolving world of web development.
+
 
 
 
