@@ -34,7 +34,8 @@
 🛠 Languages and Tools:
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
  alt="cplusplus" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel
-="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> <a href
+="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+ alt="css3" width="30" height="30"/> </a> <a href
 ="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> </a> </p>
 
 <br>
@@ -59,7 +60,7 @@
 
 
 <div align="center">
-<a href="https://www.fontspace.com/category/signature"><img src="https://see.fontimg.com/api/renderfont4/9gq2/eyJyIjoiZnMiLCJoIjozMSwidyI6MTM5NiwiZnMiOjIyLCJmZ2MiOiIjRTBEQURBIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/T21rYXIgcHVuamFwd2Fy/reinata-demo.png" alt="Signature fonts"></a>
+<a href="https://www.fontspace.com/category/signature"><img src="https://see.fontimg.com/api/renderfont4/9gq2/eyJyIjoiZnMiLCJoIjo5MSwidyI6MTM5NiwiZnMiOjY1LCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/b21rYXIgcHVuamFwd2Fy/reinata-demo.png" alt="Signature fonts"></a>
 </div>
   
 
