@@ -27,7 +27,7 @@
 
 🤝 Connect with me:
 <p align="left">
-<a  href="https://in.linkedin.com/in/omkar-punjapwar-bb7776284?trk=people-guest_people_search-card" target="blank"><img align="left" src="https://i.ibb.co/MMRYgnh/output-onlinegiftools.gif" alt="omkarpunjapwar" height="38" width="38" /></a>
+<a align="left" href="https://in.linkedin.com/in/omkar-punjapwar-bb7776284?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://i.ibb.co/MMRYgnh/output-onlinegiftools.gif" alt="omkarpunjapwar" height="38" width="38" /></a>
    
 <a href="https://instagram.com/_nameis_omkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nameis_omkar" height="30" width="40" /></a>
 </p>
