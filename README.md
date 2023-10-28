@@ -10,6 +10,7 @@
 🌟 About Me:
 - 🎓 Studying Computer Applications at SRTM University,NANDED.
 - 💻 Frontend developer with an intermediate level of expertise.
+
 - 🌆 Based in Maharastra, INDIA.
 
 🚀 What I Do:
@@ -40,9 +41,13 @@
 <br>
 <br>
 
- <div align="center">
+ <span align="left">
     <img src="https://streak-stats.demolab.com?user=omkar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  </div>
+  </span>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=220 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
+</a>
+  
 
 
 
