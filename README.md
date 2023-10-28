@@ -60,7 +60,7 @@
 
 
 <div align="center">
-<a href="https://www.fontspace.com/category/signature"><img src="https://see.fontimg.com/api/renderfont4/9gq2/eyJyIjoiZnMiLCJoIjo5MSwidyI6MTM5NiwiZnMiOjY1LCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/b21rYXIgcHVuamFwd2Fy/reinata-demo.png" alt="Signature fonts"></a>
+<a href="https://www.fontspace.com/category/signature"><img src="https://see.fontimg.com/api/renderfont4/9gq2/eyJyIjoiZnMiLCJoIjo5MSwidyI6MTM5NiwiZnMiOjY1LCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/b21rYXIgcHVuamFwd2Fy/reinata-demo.png" width="300" alt="Signature fonts"></a>
 </div>
   
 
