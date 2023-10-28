@@ -45,10 +45,10 @@
 <br>
 
  <span align="left">
-    <img src="https://streak-stats.demolab.com?user=omkar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  height="200" alt="streak graph"  />
+    <img src="https://streak-stats.demolab.com?user=omkar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  height="200" width="45%" alt="streak graph"  />
   </span>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img  height="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
+  <img  height="200" width="45%"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
 </a>
   
 
