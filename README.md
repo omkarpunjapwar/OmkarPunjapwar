@@ -2,7 +2,10 @@
 <span align="center">
 <img width="100%" src="https://i.ibb.co/bvFBd0G/git-bg.gif" alt="git-bg" border="0">
 </span>
+
 ##
+
+<br>
 <br>
 <span align="right">
    <img align="right" width="400" src="https://cdn.acidcow.com/pics/20110201/animated_23.gif" />
