@@ -1,6 +1,6 @@
 
 <span align="center">
-<img width="100%" src="https://i.ibb.co/F5CHg59/banner-gif-github.gif" alt="git-bg" border="0">
+<img width="100%" src="https://i.ibb.co/GQhvJLD/git-banner-gif.gif" alt="git-bg" border="0">
 </span>
 
 ##
