@@ -50,10 +50,10 @@
 <br>
 
  <span align="left">
-    <img src="https://streak-stats.demolab.com?user=omkar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  height="200" width="45%" alt="streak graph"  />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=omkarpunjapwar&theme=dark&date_format=n%2Fj%5B%2FY%5D&mode=weekly&card_width=500&ring=EB3E47" alt="GitHub Streak" /></a>
   </span>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img  height="177" width="45%"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
+  <img  height="187" width="45%"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
 </a>
   
 
