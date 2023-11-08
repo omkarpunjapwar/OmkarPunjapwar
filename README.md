@@ -49,12 +49,12 @@
 <br>
 <br>
 
- <span align="center">
+ <span align="left">
 <a href="https://git.io/streak-stats"><img  src="https://github-readme-streak-stats.herokuapp.com?user=omkarpunjapwar&theme=dark&date_format=n%2Fj%5B%2FY%5D&mode=weekly&card_width=500&ring=EB3E47" alt="GitHub Streak" /></a>
   </span>
   <br>
   <br>
-  <span align="center">
+  <span align="left">
 <a href="https://github.com/anuraghazra/convoychat">
   <img  height="187" width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
 </a>
