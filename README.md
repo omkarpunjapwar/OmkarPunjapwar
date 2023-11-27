@@ -43,11 +43,7 @@
  alt="css3" width="30" height="30"/> </a> <a href
 ="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> </a> </p>
 </span>
-<br>
-<br>
-<br>
-<br>
-<br>
+
  <span >
 <img align="right" width="400" src="https://i.ibb.co/9ykWZyk/output-onlinegiftools-1.gif" alt="output-onlinegiftools-1" border="0">
   </span>
