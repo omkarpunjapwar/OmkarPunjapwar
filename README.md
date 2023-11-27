@@ -10,7 +10,7 @@
 <span align="right">
    <img align="right" width="400" src="https://cdn.acidcow.com/pics/20110201/animated_23.gif" />
 </span>
-
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar&label=Profile%20views&color=0e75b6&style=flat" alt="omkar" /> </p>
 
 🌟 About Me:
@@ -28,8 +28,9 @@
 
 
 
-<span>
+
 🤝 Connect with me:
+<img align="left" width="300" src="https://i.ibb.co/9ykWZyk/output-onlinegiftools-1.gif" alt="output-onlinegiftools-1" border="0">
 <p align="left">
 <a align="left" href="https://in.linkedin.com/in/omkar-punjapwar-bb7776284?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://i.ibb.co/MMRYgnh/output-onlinegiftools.gif" alt="omkarpunjapwar" height="38" width="38" /></a>
    
@@ -42,9 +43,8 @@
 ="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
  alt="css3" width="30" height="30"/> </a> <a href
 ="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> </a> </p>
-</span><span >
-<img align="right" width="400" src="https://i.ibb.co/9ykWZyk/output-onlinegiftools-1.gif" alt="output-onlinegiftools-1" border="0">
-  </span>
+
+  
 <br>
 <br>
 <br>
