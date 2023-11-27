@@ -48,7 +48,7 @@
 <br>
 <br>
  <span align="left">
-<img src="https://i.ibb.co/PW6RCqX/output-onlinegiftools.gif" alt="output-onlinegiftools" border="0">
+<img  width="20%" src="https://i.ibb.co/PW6RCqX/output-onlinegiftools.gif" alt="output-onlinegiftools" border="0">
   </span>
 <br>
 <br>
