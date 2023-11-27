@@ -48,7 +48,7 @@
 <br>
 <br>
  <span align="left">
-<img src="https://i.ibb.co/BwVW8tG/3d-cat.gif" alt="3d-cat" border="0">
+<img src="https://i.ibb.co/VB6ddsr/spiral3d-gifs-amazing-animations-3.gif" alt="spiral3d-gifs-amazing-animations-3" border="0">
   </span>
 <br>
 <br>
