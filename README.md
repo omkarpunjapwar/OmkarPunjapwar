@@ -15,7 +15,7 @@
 
 🌟 About Me:
 - 🎓 Studying Computer Applications at SRTM University,NANDED.
-- 💻 Frontend developer with an intermediate level of expertise.
+- 💻As a frontend developer, I specialize in creating captivating user experiences that bring projects to life.
 
 - 🌆 Based in Maharastra, INDIA.
 
