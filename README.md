@@ -1,6 +1,6 @@
 
 <span align="center">
-<img width="100%" src="https://i.ibb.co/R0yjS8x/final-Glitch-banner.gif" alt="final_Glitch_banner" border="0">
+<img width="100%" src="https://i.ibb.co/KGf05Cs/new11.png" alt="new11" border="0">
 </span>
 
 ##
