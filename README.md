@@ -35,7 +35,7 @@
 🤝 Connect with me:
 
 <p align="left">
-<a align="left" href="www.linkedin.com/in/omkar-punjapwar" target="blank"><img align="center" src="https://i.ibb.co/MMRYgnh/output-onlinegiftools.gif" alt="omkarpunjapwar" height="38" width="38" /></a>
+<a align="left" href="https://www.linkedin.com/in/omkar-punjapwar" target="blank"><img align="center" src="https://i.ibb.co/MMRYgnh/output-onlinegiftools.gif" alt="omkarpunjapwar" height="38" width="38" /></a>
    
 <a href="https://instagram.com/_nameis_omkar" target="blank"><img align="center" src="https://i.ibb.co/0DR3rzh/instagram.gif" alt="_nameis_omkar" height="40" width="40" /></a>
 </p>
