@@ -15,7 +15,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar&label=Profile%20views&color=0e75b6&style=flat" alt="omkar" /> </p>
 
 🌟 About Me:
-- 🎓 Studying Computer Applications at SRTM University,NANDED.
+- 🎓 Studying Computer Applications at S.S.B.'S Institute of Technology & Management,NANDED.
 - 💻As a frontend developer, I specialize in creating captivating user experiences that bring projects to life.
 
 - 🌆 Based in Maharastra, INDIA.
