@@ -1,6 +1,7 @@
 
 
-![introBannerGithub](https://github.com/omkarpunjapwar/OmkarPunjapwar/assets/122955611/9d4543b8-1763-40d4-93c3-cebe97bf1307)
+![Github-MyIntro](https://github.com/omkarpunjapwar/OmkarPunjapwar/assets/122955611/ba674ec7-cedc-4d3b-b3c9-3b811ebd17a0)
+
 
 
 ##
