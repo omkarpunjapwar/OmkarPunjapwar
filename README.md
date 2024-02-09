@@ -1,7 +1,7 @@
 
-<span align="center">
-<img width="100%" src="https://i.ibb.co/KGf05Cs/new11.png" alt="new11" border="0">
-</span>
+
+![introBannerGithub](https://github.com/omkarpunjapwar/OmkarPunjapwar/assets/122955611/9d4543b8-1763-40d4-93c3-cebe97bf1307)
+
 
 ##
 
