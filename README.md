@@ -2,15 +2,12 @@
 
 ![Github-MyIntro](https://github.com/omkarpunjapwar/OmkarPunjapwar/assets/122955611/ba674ec7-cedc-4d3b-b3c9-3b811ebd17a0)
 
-
-
 ##
 
 <br>
 <br>
-<span align="right"
->
-   <img align="right" width="400" src="https://cdn.acidcow.com/pics/20110201/animated_23.gif" />
+<span align="right">
+   <img align="right" width="400" src="https://github.com/omkarpunjapwar/OmkarPunjapwar/assets/122955611/3ed0054c-f923-4da4-a6d2-f1aeebb1a41f" />
 </span>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar&label=Profile%20views&color=0e75b6&style=flat" alt="omkar" /> </p>
