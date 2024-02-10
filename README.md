@@ -1,7 +1,5 @@
 
-
-![Github-MyIntro](https://github.com/omkarpunjapwar/OmkarPunjapwar/assets/122955611/ba674ec7-cedc-4d3b-b3c9-3b811ebd17a0)
-
+![Github-MyIntro](https://github.com/omkarpunjapwar/OmkarPunjapwar/assets/122955611/9c38bbe3-e322-4a7b-9298-bcfd4afafc35)
 ##
 
 <br>
