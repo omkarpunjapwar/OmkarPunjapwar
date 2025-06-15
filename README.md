@@ -54,10 +54,8 @@ This GitHub is my digital proof — everything I build, learn, and explore is he
 ⭐My Projects: 
 <br>
 <br>
-🔸<a href="https://omkarpunjapwar.github.io/To-do-App/" target="_blank">TO-Do List WebApp 🦉</a>
-<span align="left" style="margin-right:10px;"> ( <--Click )</span>  
-<br>
-<br>
+
+
 
 🔸 Flipkart-clone👉 (click on logo)
 <span style="margin-left:100px;">
