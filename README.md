@@ -10,18 +10,42 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar&label=Profile%20views&color=0e75b6&style=flat" alt="omkar" /> </p>
 
-🌟 About Me:
-- 🎓 Studying Computer Applications at S.S.B.'S Institute of Technology & Management,NANDED.
-- 💻As a frontend developer, I specialize in creating captivating user experiences that bring projects to life.
+# 👋 Hi, I'm Omkar — Aspiring Data Analyst
 
-- 🌆 Based in Maharastra, INDIA.
+I'm learning step-by-step to become a job-ready **Data Analyst** with real-world skills.  
+I focus on **cleaning, analyzing, and visualizing data** using tools like **Excel, SQL, Python, and Power BI**.  
+This GitHub is my digital proof — everything I build, learn, and explore is here.
 
-🚀 What I Do:
-- 🌐 Creating captivating web experiences using HTML, CSS, and JavaScript.
-- 🎨 Designing user-friendly and responsive interfaces.
-- 🔧 Solving coding challenges one line at a time.
+---
 
-💡 I'm passionate about technology, always eager to learn and grow in the ever-evolving world of web development.
+## 🔧 Tools I'm Working With:
+- **Excel** – Dashboards, formulas, pivot tables  
+- **SQL** – Data querying, joins, aggregations  
+- **Python (Pandas, Matplotlib)** – Data cleaning, analysis, visualizations  
+- **Power BI** – Interactive dashboards and insights  
+- **Git & GitHub** – Version control and project publishing  
+
+---
+
+## 📂 What You'll Find Here:
+- Real-world datasets & analysis (sales, customer data, etc.)  
+- Mini-projects to showcase my skills  
+- Clean code with simple explanations  
+- Practice notebooks & learning milestones
+
+---
+
+## 🌱 Always Learning:
+- Data storytelling and dashboard design  
+- Case-based analytics projects  
+- How to connect insights to business goals
+
+---
+
+
+
+
+
 
 <br>
 <br>
@@ -35,30 +59,26 @@
 <br>
 <br>
 
-<span align="left" style="margin-right:10px;">🔸 Flipkart-clone👇 (click on logo)</span>  
-<br>
-<a href="https://omkarpunjapwar.github.io/E-commerce/" target="_blank"><img  width="100px" src="https://i.ibb.co/W65pY9k/flipkart-logo.png" alt="flipkart-logo" border="0"></a>
-<br>
-<br>
-<span align="left" style="margin-right:10px;">🔸 Clave-Enhance Productivity (WebApp)</span>  
-<br>
-<a href="https://omkarpunjapwar.github.io/Clave-enhance-productivity/" target="_blank">Click Here.</a>
+🔸 Flipkart-clone👉 (click on logo)
+<span style="margin-left:100px;">
+<a href="https://omkarpunjapwar.github.io/E-commerce/" target="_blank"><img  width="100px" src="https://i.ibb.co/W65pY9k/flipkart-logo.png" alt="flipkart-logo" border="0"></a></span>
 <br>
 <br>
-🤝 Connect with me:
-
-<p align="left">
-<a align="left" href="https://www.linkedin.com/in/omkar-punjapwar" target="blank"><img align="center" src="https://i.ibb.co/MMRYgnh/output-onlinegiftools.gif" alt="omkarpunjapwar" height="38" width="38" /></a>
+🔸 Clave-Enhance Productivity (WebApp)
+<span>
+<a href="https://omkarpunjapwar.github.io/Clave-enhance-productivity/" target="_blank">Click Here.</a></span>
+<br>
+<br>
+## 📬 Let's Connect:
+- 📧 Email: omkarpunjapwar11@gmail.com
+- My Linkedin -- ><span>
+<a align="left" href="https://www.linkedin.com/in/omkar-punjapwar" target="blank"><img align="center" src="https://i.ibb.co/MMRYgnh/output-onlinegiftools.gif" alt="omkarpunjapwar" height="38" width="38" /></a></span>
    
-<a href="https://instagram.com/_nameis_omkar" target="blank"><img align="center" src="https://i.ibb.co/0DR3rzh/instagram.gif" alt="_nameis_omkar" height="40" width="40" /></a>
-</p>
 
-🛠 Languages and Tools:
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
- alt="cplusplus" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel
-="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
- alt="css3" width="30" height="30"/> </a> <a href
-="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> </a> </p>
+
+
+
+
 
   
 <br>
