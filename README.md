@@ -67,6 +67,11 @@ This GitHub is my digital proof — everything I build, learn, and explore is he
 <a href="https://omkarpunjapwar.github.io/Clave-enhance-productivity/" target="_blank">Click Here.</a></span>
 <br>
 <br>
+🔸 Portfolio
+<span>
+<a href="https://omkarpunjapwar.github.io/Portfolio/" target="_blank">Click Here.</a></span>
+<br>
+<br>
 ## 📬 Let's Connect:
 - 📧 Email: omkarpunjapwar11@gmail.com
 - My Linkedin -- ><span>
