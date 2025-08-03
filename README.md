@@ -10,11 +10,10 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar&label=Profile%20views&color=0e75b6&style=flat" alt="omkar" /> </p>
 
-# 👋 Hi, I'm Omkar — Aspiring Data Analyst
+# 👋 Hi, I'm Omkar — A Data Analyst
 
-I'm learning step-by-step to become a job-ready **Data Analyst** with real-world skills.  
-I focus on **cleaning, analyzing, and visualizing data** using tools like **Excel, SQL, Python, and Power BI**.  
-This GitHub is my digital proof — everything I build, learn, and explore is here.
+Who explores, cleans, analyzes, and visualizes data to solve real business problems.
+From Excel to SQL, Python to Power BI — this GitHub is where I showcase my work, projects, and data-driven journey.
 
 ---
 
